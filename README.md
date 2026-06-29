@@ -10,11 +10,23 @@ Manual_Inflection_Point_Marking_GUI: Graphical User Interface (GUI) which can be
 
 Gait_Cycle_Template_Matching: Constructs a template from the subsection of manually marked inflection points that can be used to find all inflection points in a large underfoot pressure dataset.
 
+## License and Citation
+
+This repository is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+Use, sharing, adaptation, or redistribution of this work requires attribution to Adaptive Template Matching, Grange Simpson, and Ivan Khimach, plus citation of the associated academic paper:
+
+```text
+[Conference Paper Found Here](https://ieeexplore.ieee.org/document/11063134/references#references)
+```
+
 ## Instructions
 
 For any usage cite the paper on ieeexplore [here](https://ieeexplore.ieee.org/document/11063134/references#references).
 
 gc_template_matching.yml contains the anaconda environment used to run both files. Load this environment into anaconda and use it through your favorite coding environment. For usage details, read the description at the top of each Python file. 
+
+
 
 ## Updates
 A fully automated v2 version is located [here](https://github.com/Garangatang/Automated_Gait_Cycle_Template_Matching/tree/main). Testing still needs to be completed before a full release. The v2 version will requires no manual marking of data.
