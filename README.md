@@ -16,9 +16,8 @@ This repository is licensed under the Creative Commons Attribution 4.0 Internati
 
 Use, sharing, adaptation, or redistribution of this work requires attribution to Adaptive Template Matching, Grange Simpson, and Ivan Khimach, plus citation of the associated academic paper:
 
-```text
 [Conference Paper Found Here](https://ieeexplore.ieee.org/document/11063134/references#references)
-```
+
 
 ## Instructions
 
