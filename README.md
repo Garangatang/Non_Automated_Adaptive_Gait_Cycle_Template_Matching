@@ -14,7 +14,7 @@ Gait_Cycle_Template_Matching: Constructs a template from the subsection of manua
 
 This repository is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
-Use, sharing, adaptation, or redistribution of this work requires attribution to Adaptive Template Matching, Grange Simpson, and Ivan Khimach, plus citation of the associated academic paper:
+Use, sharing, adaptation, or redistribution of this work requires attribution to Adaptive Template Matching, and Grange Simpson, plus citation of the associated academic paper:
 
 [Conference Paper Found Here](https://ieeexplore.ieee.org/document/11063134/references#references)
 
