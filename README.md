@@ -28,7 +28,7 @@ gc_template_matching.yml contains the anaconda environment used to run both file
 
 
 ## Updates
-A fully automated v2 version is located [here](https://github.com/Garangatang/Automated_Gait_Cycle_Template_Matching/tree/main). Testing is nearing completion and the paper will be published soon. The v2 version is fully automated and requires no manual marking of data.
+A fully automated v2 version is located [here](https://github.com/Garangatang/adaptive-template-matching-repo/tree/main). Testing is nearing completion and the paper will be published soon. The v2 version is fully automated and requires no manual marking of data.
 
 ## Collaborators
 [![Github Badge](https://img.shields.io/badge/-Grange_Simpson-3A3B3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Garangatang)
